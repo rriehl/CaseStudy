@@ -1,0 +1,23 @@
+-- The new Feature for CaseStudy1 is in this file
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>DevOps Tool Set</h2>
+
+<ol>
+ <li>CI Engine - Jenkins</li>
+  <li>VCS - Git or Github</li>
+  <li>Build - Mavin</li>
+  <li>CT - Se</li>
+  <li>CM - puppet</li>
+  <li>CD - ANSIBLE</li>
+  <li>CM - Nagios</li>
+  
+</ol>
+
+Nice list eh!
+
+</body>
+</html>
